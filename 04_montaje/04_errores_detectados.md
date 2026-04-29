@@ -1,6 +1,6 @@
 # ❌ ERRORES DETECTADOS EN EL MONTAJE
 
-## 👨‍💻 Alumno:ruben 
+## 👨‍💻 Alumno:ruben de la guia 
 ## 🖥️ Equipo:
 
 ---
