@@ -1,6 +1,6 @@
 # 🔍 ANÁLISIS DEL VÍDEO DE MONTAJE
 
-## 👨‍💻 Alumno:ruben 
+## 👨‍💻 Alumno:ruben de la guia 
 ## 🖥️ Equipo:
 
 ---
