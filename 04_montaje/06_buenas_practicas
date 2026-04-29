@@ -19,9 +19,13 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 1. SEGURIDAD
 
-- 
-- 
-- 
+- Tocar el chasis metálico: Antes de empezar, toca una parte metálica de la caja para descargar la electricidad estática de tu cuerpo.
+
+Fuente apagada: Mantén la fuente de alimentación desenchufada o con el interruptor en 0 mientras manipulas cables internos.
+
+Superficie aislante: No montes el PC sobre una alfombra; usa una mesa de madera o la propia caja de cartón de la placa base.
+
+
 
 💡 Ejemplo: descargar electricidad estática antes de manipular componentes
 
@@ -29,9 +33,13 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧰 2. USO DE HERRAMIENTAS
 
-- 
-- 
-- 
+- Puntas imantadas: Usa un destornillador de estrella (Phillips) imantado para que no se te caigan los tornillos dentro de la placa base (puede causar cortos).
+
+Luz extra: Ten a mano una linterna o el flash del móvil para ver bien los conectores pequeños del panel frontal.
+
+No apretar a lo loco: Aprieta los tornillos hasta que notes resistencia, pero sin pasarte de fuerza para no pasar de rosca los componentes
+
+
 
 💡 Ejemplo: usar herramientas adecuadas para no dañar los componentes
 
@@ -39,9 +47,13 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧩 3. MONTAJE DE COMPONENTES
 
-- 
-- 
-- 
+- La muesca es la clave: Fíjate siempre en las muescas de la RAM y la esquina marcada del procesador; si no entra suave, es que está al revés.
+
+    Sujetar por los bordes: Evita tocar los contactos dorados o los circuitos directamente con los dedos para no dejar grasa o humedad.
+
+    Instalación externa: Monta la CPU y la RAM en la placa base antes de meterla en la torre; tendrás mucho más espacio para maniobrar.
+
+
 
 💡 Ejemplo: no forzar los componentes al instalarlos
 
@@ -49,9 +61,11 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 4. CONEXIONES Y CABLEADO
 
-- 
-- 
-- 
+- El "clic" de seguridad: Asegúrate de que todos los cables (especialmente el de 24 pines y la GPU) suenen con un "clic" al entrar.
+
+No forzar los pines: Si un conector no entra, revisa si hay algún pin doblado antes de empujar más fuerte.
+
+Etiquetado: Lee las etiquetas de los cables de la fuente (CPU, PCIe); a veces se parecen pero no son intercambiables.
 
 💡 Ejemplo: comprobar todas las conexiones antes de encender
 
@@ -59,9 +73,13 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🌡️ 5. ORGANIZACIÓN Y VENTILACIÓN
 
-- 
-- 
-- 
+- Gestión por detrás: Pasa todos los cables posibles por el compartimento trasero de la torre para dejar el interior despejado.
+
+    Bridas de velcro: Usa bridas para agrupar los cables; evita que toquen las aspas de los ventiladores.
+
+    Flujo de aire: Asegúrate de que los ventiladores frontales metan aire y el trasero lo saque (presión positiva/equilibrada).
+
+
 
 💡 Ejemplo: ordenar los cables para facilitar el flujo de aire
 
@@ -69,9 +87,13 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧠 6. COMPROBACIONES FINALES
 
-- 
-- 
-- 
+- Tornillos perdidos: Agita suavemente la torre (con cuidado) para comprobar que no se ha quedado ningún tornillo suelto por dentro.
+
+Conexión del monitor: Recuerda conectar el HDMI o DisplayPort a la tarjeta gráfica, no a la placa base.
+
+Revisión visual: Haz un último repaso con la linterna para confirmar que no te has dejado el plástico del disipador puesto.
+
+
 
 💡 Ejemplo: revisar que todo está bien conectado antes del primer arranque
 
@@ -79,9 +101,13 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 💼 7. ACTITUD PROFESIONAL
 
-- 
-- 
-- 
+- Manual de la placa siempre cerca: Ante la duda, el manual de instrucciones es tu mejor amigo para saber dónde van los cables pequeños.
+
+Limpieza: No comas ni bebas cerca de las piezas y mantén los plásticos y cajas fuera de la mesa de trabajo.
+
+Paciencia: Si algo no encaja o no enciende, para, respira y vuelve a revisar paso a paso sin prisas.
+
+
 
 💡 Ejemplo: trabajar con orden, limpieza y cuidado del material
 
@@ -90,8 +116,10 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 # 🧠 REFLEXIÓN FINAL
 
 - ¿Por qué es importante seguir buenas prácticas en el montaje?
+Porque aseguras que la inversión de dinero que has hecho en piezas dure muchos años. No es solo que el PC encienda, sino que sea estable, silencioso y fácil de reparar en el futuro.
 
 - ¿Qué puede pasar si no se siguen?
-
+Desde fallos tontos (que no dé imagen) hasta desastres caros (quemar la placa por un corto o freír la CPU por no poner bien la pasta térmica). Además, un PC desordenado se calienta más y rinde menos.
 - ¿Cuál crees que es la práctica más importante? ¿Por qué?
 
+Para mí, la paciencia y leer el manual. Casi todos los errores graves ocurren por querer terminar rápido o por dar por hecho dónde va un cable sin consultarlo. Si vas con calma, los errores son casi imposibles.
