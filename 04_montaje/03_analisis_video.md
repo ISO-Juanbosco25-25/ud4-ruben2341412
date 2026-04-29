@@ -52,11 +52,12 @@ Pinchar el procesador en su sitio, ponerle la pasta térmica y encajar la RAM.
 si
 📌 Problemas observados:Ninguno, todo ha ido perfecto 
 
-📌 Riesgos detectados:
-(Ejemplo: mala colocación, presión incorrecta, etc.)
-ninguno todo perfecto 
+📌 Riesgos detectados:el error que tuve fue que no presionaba bien y me costo un poco 
+(Ejemplo: mala colocación, presión incorrecta, etc.]
+
+
 📌 Valoración técnica:
-Muy bien. El procesador ha entrado perfecto y la RAM ha hecho el "clic" que da esa tranquilidad de que está bien puesta.
+Muy bien. El procesador ha entrado perfecto y la RAM ha hecho el "clic" que da esa tranquilidad de que está bien puesta y un peuqeño fallo que al poner la ram me costo un poco 
 ---
 
 ## 🧩 Fase 3: Instalación de almacenamiento
@@ -112,22 +113,18 @@ Cero fallos con la CPU: No he doblado nada, que es el mayor miedo de cualquier p
 RAM bien puesta: He aprovechado el máximo rendimiento desde el minuto uno.
 
 Sin líos de estática: El equipo ha arrancado perfecto, así que el manejo ha sido seguro.
-- 
-- 
 
----
 
 ## ❌ Fallos detectados
+- error ala colocacion del panel frontal 
+- ala hora de colocar el disipador me costo bastante ya que el disipador estab aun poco roto 
+  
 
-- ningunos 
-- 
-- 
 
 ---
 
 ## ⚠️ Riesgos potenciales
-
-- no hay ningun riesgo potencial 
+- la falta de componentes que hace que no funciones el pc 
 - 
 - 
 
@@ -141,4 +138,4 @@ Sin líos de estática: El equipo ha arrancado perfecto, así que el manejo ha s
 - ¿Crees que este equipo funcionaría a largo plazo sin problemas? ¿Por qué?
 si por que esta hecho con delicadeza y todo lo que habia en el pc esta puesto bien 
 - Si fueras técnico en una empresa, ¿darías este equipo como válido o lo revisarías?
-lo daria como valido 
+ si lo daria como valido 
