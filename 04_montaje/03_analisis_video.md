@@ -31,9 +31,9 @@ preparar las herramientas y dejar todo limpio para que no se pueda caer ni derra
 📌 ¿Se realiza correctamente? (Sí / No / Parcialmente)
 si 
 📌 Observaciones:
-- Organización del espacio:  esta todo a mano y el area esta despejada
-- Uso de herramientas: utilizamos las herramientas necesarias y que hay 
-- Seguridad (electricidad estática, etc.): es bastante seguro ya que no esta enchufado ala electricidad 
+ Organización del espacio:  esta todo a mano y el area esta despejada
+Uso de herramientas: utilizamos las herramientas necesarias y que hay 
+Seguridad (electricidad estática, etc.): es bastante seguro ya que no esta enchufado ala electricidad 
 
 📌 Valoración técnica:
 (Explica si está bien hecho y por qué)
