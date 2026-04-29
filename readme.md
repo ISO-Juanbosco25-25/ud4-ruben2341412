@@ -1,6 +1,6 @@
 # 🛠️ UNIDAD 4: MONTAJE Y MANTENIMIENTO DE EQUIPO
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno:ruben de la guia 
 ## 🏫 Curso: 1º SMR
 ## 📅 Unidad: UT4
 
